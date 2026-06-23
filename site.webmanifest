@@ -1,0 +1,10 @@
+{
+  "name": "Ikram Estimation Services",
+  "short_name": "Ikram Estimation",
+  "description": "Construction cost estimating and quantity surveying for contractors worldwide.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0C1A26",
+  "theme_color": "#0C1A26",
+  "icons": [{ "src": "/assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
